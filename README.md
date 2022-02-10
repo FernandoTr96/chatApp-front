@@ -1,6 +1,5 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://chat-app-mern-stack-15091133.herokuapp.com/login
 
 ## Available Scripts
 
