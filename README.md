@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-https://chat-app-mern-stack-15091133.herokuapp.com/login
+https://chat-app-mern-stack-15091133.herokuapp.com
 
 ## Available Scripts
 
